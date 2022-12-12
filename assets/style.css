@@ -11,15 +11,18 @@ footer {
     color: yellow;
 }
 
-h1,
+h1 {
+    text-align: center;
+}
 h2 {
     text-align: center;
+    color: black;
 }
 
 img {
     display: block;
-    height: 75px;
-    width: 75px;
+    height: 50px;
+    width: 50px;
     margin-left: auto;
     margin-right: auto;
 }
