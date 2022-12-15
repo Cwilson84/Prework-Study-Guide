@@ -7,7 +7,7 @@ This is an interactive study guide, hosted on Github pages, containing informati
 - This guide is designed to be accessible anywhere you have internet connection.
 - It was built as both a convinient and interactive way to quickly access information, and as a way to practice the skills used to build and deploy such a webpage.
 - This interactive study guide is both a useful tool, as well as a learning experience. Also, being abstract and virtual, it can hold an infinite amount of information, in various forms of media, while retaining the same physical footprint!  
-- I learned a great deal, from interacting with the terminal, to Github and version control, program flow, and so much more.  Simply put, I learmed that magic is real, and it resides in the simple on/off of electrical signals.
+- I learned a great deal, from interacting with the terminal, to Github and version control, program flow, and so much more.  Simply put, I learned that magic is real, and it resides in the simple on/off of electrical signals.
 
 ## Installation
 
